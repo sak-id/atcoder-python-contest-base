@@ -1,0 +1,7 @@
+name: AtCoder Python Template
+description: A Python template for AtCoder competitive programming contests with automated setup and testing
+labels:
+  - competitive-programming
+  - atcoder
+  - python
+  - template
